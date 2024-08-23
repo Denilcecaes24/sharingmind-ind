@@ -46,7 +46,7 @@
 
 
 .cont_princ .cont_slider_auto_1 .bg_img1 {
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url(/img/image.jpg);
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url(./image.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -57,7 +57,7 @@
 }
 
 .cont_princ .cont_slider_auto_1 .bg_img2 {
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url(/img/14653.jpg);
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url(./14653.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -68,7 +68,7 @@
 }
 
 .cont_princ .cont_slider_auto_1 .bg_img3 {
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url(/img/jovenes-emprendedores-mod.jpg);
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url(./jovenes-emprendedores-mod.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;

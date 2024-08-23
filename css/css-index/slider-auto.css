@@ -43,7 +43,7 @@
 
 
 #seccion4 .cont_slider_auto .bg_img1 {
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url(/img/img_023.jpeg);
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url(./img_023.jpeg);
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
@@ -54,7 +54,7 @@
 }
 
 #seccion4 .cont_slider_auto .bg_img2 {
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url(/img/img_024.jpeg);
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url(./img_024.jpeg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -65,7 +65,7 @@
 }
 
 #seccion4 .cont_slider_auto .bg_img3 {
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url(/img/img_025.jpeg);
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url(./img_025.jpeg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
